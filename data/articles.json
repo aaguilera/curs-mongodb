@@ -1,0 +1,22 @@
+{
+    "_id": 1,
+    "name": "title1",
+    "slug": "slug1",
+    "publish_date": "20151004T10:30",
+    "text": "text1",
+    "user": 1,
+    "categories": [1, 2],
+    "tags": ["tag1", "tag2"],
+    "comments": [
+        {
+            "comments": "comments1",
+            "date": "20151004T12:25",
+            "author": 1
+        },
+        {
+            "comments": "comments2",
+            "date": "20151004T12:30",
+            "author": 2
+        }
+    ]
+}
